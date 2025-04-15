@@ -75,3 +75,10 @@ Usa un arreglo para mostrar el progreso.
 Hace comparación sin importar mayúsculas/minúsculas .
 
 Dibuja al ahorcado de forma progresiva.
+
+
+
+#Autor
+
+Miguel Cáceres
+Ficha 3065370
